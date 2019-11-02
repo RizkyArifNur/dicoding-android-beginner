@@ -14,8 +14,8 @@ class TourismRecyclerAdapterOnclick(onItemClick: (TourismModel) -> Unit) :
         super.onBindView(holderView, position, holder)
         val currentItem = items[position]
         val tourismPhotoUrl = currentItem.tourismImageUrl
-        holderView.tv_tourism_name.text = currentItem.tourismName
-        holderView.tv_tourism_desc.text = currentItem.tourismDescription.shrink(80)
-        Glide.with(holder.itemView).load(tourismPhotoUrl).into(holderView.img_tourism_photo)
+        holderView.tv_tourism_name_rv.text = currentItem.tourismName
+        holderView.tv_tourism_desc_rv.text = currentItem.tourismDescription.shrink(80)
+        Glide.with(holder.itemView).load(tourismPhotoUrl).into(holderView.img_tourism_photo_rv)
     }
 }

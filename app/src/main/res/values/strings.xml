@@ -2,4 +2,17 @@
     <string name="app_name">Dicoding Android Beginner</string>
     <string name="example_tourism_name">Example Tourism Name</string>
     <string name="example_tourism_descriptions">Example Tourism Descriptions</string>
+    <string name="name">Name</string>
+    <string name="rizky_arif_nur_choir">: Rizky Arif Nur Choir</string>
+    <string name="email">Email</string>
+    <string name="rizkyarifnur_gmail_com">: rizkyarifnur@gmail.com</string>
+    <string name="github">Github</string>
+    <string name="https_github_com_rizkyarifnur"> : <a href="https://github.com/RizkyArifNur"> https://github.com/RizkyArifNur</a></string>
+    <string name="linkedin">Linkedin</string>
+    <string name="https_www_linkedin_com_in_rizkyarifnur"> : <a href="https://www.linkedin.com/in/rizkyarifnur/"> https://www.linkedin.com/in/rizkyarifnur/ </a> </string>
+    <string name="my_summary">I am a Software Engineer with industry experience building websites, web applications and
+        mobile applications. I specialize in JavaScript and have professional experience working with Typescript and
+        NodeJs. I also have experience building mobile applications with Android Studio
+    </string>
+    <string name="about_me">About Me</string>
 </resources>

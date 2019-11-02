@@ -27,7 +27,7 @@ class TourismData(res: Resources) {
     }
 
 
-    fun getContents() : ArrayList<TourismModel> {
+    fun getContents(): ArrayList<TourismModel> {
         val contents = arrayListOf<TourismModel>()
         for (index in names.indices) {
             val tourismModel = TourismModel(

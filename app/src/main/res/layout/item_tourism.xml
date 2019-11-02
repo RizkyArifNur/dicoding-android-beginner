@@ -9,7 +9,7 @@
         android:padding="16dp">
 
     <de.hdodenhof.circleimageview.CircleImageView
-            android:id="@+id/img_tourism_photo"
+            android:id="@+id/img_tourism_photo_rv"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -19,7 +19,7 @@
             android:layout_marginStart="16dp"
             tools:src="@android:color/darker_gray"/>
     <androidx.appcompat.widget.LinearLayoutCompat
-            app:layout_constraintStart_toEndOf="@id/img_tourism_photo"
+            app:layout_constraintStart_toEndOf="@id/img_tourism_photo_rv"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginStart="10dp"
@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
         <androidx.appcompat.widget.AppCompatTextView
-                android:id="@+id/tv_tourism_name"
+                android:id="@+id/tv_tourism_name_rv"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp"
@@ -36,7 +36,7 @@
                 android:text="@string/example_tourism_name"/>
 
         <androidx.appcompat.widget.AppCompatTextView
-                android:id="@+id/tv_tourism_desc"
+                android:id="@+id/tv_tourism_desc_rv"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:maxLines="2"
