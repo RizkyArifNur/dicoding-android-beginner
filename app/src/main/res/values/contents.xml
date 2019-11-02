@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="id">
+    <string-array name="tourismNames" >
+        <item>Taman Nasional Karimunjawa</item>
+        <item>Air Terjun Jurang Nganten</item>
+        <item>Pantai Benteng Portugis</item>
+        <item>Pulau Panjang</item>
+        <item>Pantai Punuk Sapi</item>
+        <item>Hutan Wisata Sreni</item>
+        <item>Goa Tritip, Ujungwatu Donorojo</item>
+        <item>Pantai Pungkruk</item>
+        <item>Bukit Bejagan</item>
+        <item>Air Terjun Setatah</item>
+    </string-array>
+
+    <string-array name="tourismDescriptions">
+        <item>Kota Jepara sudah identik dengan keindahan alam di Kepulauan Karimunjawa. Gugusan yang terbentuk lebih dari 20 pulau kecil ini dikembangkan sebagai wisata taman laut dengan banyak spot menarik. Kamu bisa snorkeling untuk menyaksikan indahnya biota laut, singgah di penangkaran hiu, tracking ke hutan mangrove, mengunjungi banyak pantai sekaligus, wisata kuliner, hingga wisata religi.</item>
+        <item>Air Terjun Jurang Nganten terdiri dari tebing tegak dengan kucuran air cenderung tenang. Air terjun setinggi 50 meter ini bisa ditempuh dengan berkendara selama 40 menit dari pusat kota Jepara. Untuk menuju ke sana, kamu perlu trekking sekitar 500 meter dengan medan yang lumayan terjal. Tetapi begitu sampai di sana, gemericik air dan juga pepohonan yang asri bakal langsung menyambutmu. Apalagi suasananya tenang, karena belum banyak terjamah wisatawan Lokasi: Dukuh Turung, Desa Tanjung, Kecamatan Pakis Aji, Kabupaten Jepara, Jawa Tengah.</item>
+        <item>Di pinggir pantai ini berdiri Benteng Portugis yang sudah ada sejak 1923 dan menjadi cagar budaya yang dilindungi pemerintah. Selain ramai dikunjungi karena tampak gagah, banyak orang yang datang untuk berenang di pantai. Tepian pantainya tak berupa pasir, melainkan batuan dan tebing. Karena itu, banyak yang memanfaatkannya untuk memancing. Fasilitasnya sudah cukup lengkap, mulai dari kamar mandi hingga gazebo untuk bersantai</item>
+        <item>Pulau seluas 19 hektare ini dikelilingi perairan dangkal yang sangat jernih dan dipenuhi terumbu karang. Keindahan yang ditawarkan pulau ini tak kalah dengan Karimunjawa, udara bersih serta lingkungannya yang asri jadi daya tarik utamanya. Kamu bisa menyewa sepeda untuk berkeliling pulau dan menikmati suasana yang menenangkan. Ditambah lagi Pulau Panjang belum terlalu padat pengunjung, rasanya seperti menghuni pulau pribadi. Beberapa aktivitas yang bisa kamu lakukan selain bersepeda antara lain snorkeling, berkemah, hingga wisata religi mengunjungi makam Syekh Abu Bakar Bin Yahya Ba\'alawi.</item>
+        <item>Pantai Punuk Sapi juga populer disebut sebagai Pantai Lemah Abang yang berarti pantai tanah merah. Dinamai demikian karena memang pantai ini dipenuhi gundukan hingga bukit dengan tanah berwarna merah yang sekilas bentuknya mirip punuk sapi. Pantai ini memiliki pasir berwarna hitam, tapi gak kalah cantik dibanding pantai-pantai berpasir putih. Terdapat hammock dan ayunan yang bisa kamu gunakan untuk bersantai, sekaligus berfoto dari atas ketinggian</item>
+        <item>Hutan Wisata Sreni atau Sreni Indah berada di kaki Gunung Muria dan merupakan hutan pinus dengan hawa sejuk. Meski termasuk hutan lindung, kawasan Hutan Wisata Sreni juga dikembangkan sebagai kawasan wisata. Terdapat instalasi unik untuk berfoto dan gardu pandang di atas pohon pinus yang bisa kamu nikmati. Selain itu, area seluas 110 hektare yang dikelola Perhutani itu juga kerap menjadi tempat berkemah yang menyenangkan.</item>
+        <item>Zaman dahulu, Gua Tritip merupakan tempat pertapaan seorang tokoh bernama Mbah Joyo Kusumo. Warga setempat menganggap tempat tersebut sebagai petilasannya.  Di sekitar gua batu terdapat perahu kayu yang konon menjadi tempat pertapaan Mbah Joyo Kusumo. Meski demikian, kini Gua Tritip jauh dari kata seram, karena sudah dikelola dengan baik sebagai tempat wisata.  Kamu bahkan bisa bersantai di gazebo atau gardu pandang yang dibangun di sana</item>
+        <item>Pantai Pungkruk punya kemiripan dengan Pantai Jimbaran, Bali. Gak cuma menarik karena lautnya, kawasan ini merupakan tempat wisata kuliner terbesar di Jepara. Banyak rumah makan bergaya gazebo dan rumah apung berdiri di atas pantai berkarang ini. Menu yang disajikan pun beragam, seperti aneka olahan ikan laut hingga makanan khas Jepara.</item>
+        <item>Salah satu kawasan wisata yang wajib kamu kunjungi saat berada di Jepara adalah Desa Wisata Tempur. Desa ini punya hamparan sawah yang indah dengan latar gagahnya pegunungan. Salah satu spot yang jadi favorit pengunjung adalah Bukit Bejagan. Bukit ini memiliki rumah pohon yang menjorok langsung ke tebing, memungkinkan kamu menikmati pemandangan hutan dan bukit dari ketinggian.</item>
+        <item>Air Terjun Setatah memang tidak terlalu tinggi, tapi punya karakteristik lebar dan bertingkat. Lingkungannya masih sangat asri dengan dikelilingi pepohonan serta area persawahan. Selain Air Terjun Setatah, kamu bisa menemukan banyak air terjun lainnya yang masih berada dalam area Batealit, seperti Kedung Cengger, Dong Paso, Kedung Bobot, dan sebagainya.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="id">
+    <string name="app_name">Dicoding Android Beginner</string>
+    <string name="example_tourism_name">Example Tourism Name</string>
+    <string name="example_tourism_descriptions">Example Tourism Descriptions</string>
+</resources>
